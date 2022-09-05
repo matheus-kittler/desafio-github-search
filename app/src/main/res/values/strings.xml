@@ -2,4 +2,6 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="shared_icon">Botão de Compartilhar</string>
+    <string name="empty_list">Não foi possível exibir e/ou não existe</string>
 </resources>
